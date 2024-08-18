@@ -6,7 +6,7 @@
 
 🎓 Eu estudo Ciência da Computação pela Universidade Federal da Paraíba
 
-🔎 Também sou curioso sobre explorar novas tecnologias
+🔎 Sou curioso sobre explorar novas tecnologias
 
 ✒️ Eu gosto de no meu tempo livre jogar, me exercitar, programar e experimentar coisas novas;
 
