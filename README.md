@@ -43,13 +43,13 @@
 
 ![Spring Boot 3](https://img.shields.io/badge/spring%20boot%203-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Railway](https://img.shields.io/badge/railway-%2300A5E0.svg?style=for-the-badge&logo=railway&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/spring%20webflux-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
 ### Cursos realizados 🤓
 
 
 ![Desenvolvimento Java com IA](https://img.shields.io/badge/Desenvolvimento%20Java%20com%20IA-%23000000.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring WebFlux](https://img.shields.io/badge/spring%20webflux-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
 ### GitHub Stats ⚡
