@@ -1,5 +1,3 @@
-# academy-template-readme-profile
-
 # Oi, me chamo Ronaldo Felix 👋
 
 ### Sobre mim
