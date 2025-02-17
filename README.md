@@ -37,16 +37,21 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-%23007396.svg?style=for-the-badge)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128.svg?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+![Swagger Diff](https://img.shields.io/badge/Swagger%20Diff-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white)
 
 
 ### Eu estou estudando... 🧩
 
-![Spring Boot 3](https://img.shields.io/badge/spring%20boot%203-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Railway](https://img.shields.io/badge/railway-%2300A5E0.svg?style=for-the-badge&logo=railway&logoColor=white)
-![Spring WebFlux](https://img.shields.io/badge/spring%20webflux-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-%23007396.svg?style=for-the-badge)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 
 
-### Cursos realizados 🤓
+### Cursos/BootCamps realizados 🤓
 
 
 ![Desenvolvimento Java com IA](https://img.shields.io/badge/Desenvolvimento%20Java%20com%20IA-%23000000.svg?style=for-the-badge&logo=java&logoColor=white)
